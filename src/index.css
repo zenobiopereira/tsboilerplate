@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  color: #000;
+  font-family: 'Helvetica', 'Helvetica Neue', 'Ubuntu';
+}
+
+.is-hidden {
+  display: none;
+}
